@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piyush working as a Research Scientist at [Vizzhy](VIZZHY)
+- 👋 Hi, I’m Piyush working as a Research Scientist at [Vizzhy](https://vizzhy.com)
 - 👀 I’m interested in machine/deep learning in speech-NLP, multilingual and multimodal space.
 - 💞️ I’m looking to collaborate on most things speech and NLP
 - 📫 Reach me through my [LinkedIn](https://in.linkedin.com/in/piyush-pp)
